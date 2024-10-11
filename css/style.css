@@ -71,12 +71,12 @@ nav .header_right .nav-heading {
 }
 
 nav .header_right .algos {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (16.66667%)[6];
-      grid-template-columns: repeat(7, 20.96667%);
-  place-content: center;
-  padding: 2% 0%;
+ display: -ms-grid;
+ display: grid;
+ -ms-grid-columns: (20.66667%)[6];
+     grid-template-columns: repeat(7, 20.86667%);
+ place-content: center;
+ padding: 3% 0%;
 }
 
 nav .header_right .algos button {
