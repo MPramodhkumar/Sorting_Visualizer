@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   M. Pramodhkumar
     *****************
 */
 * {
@@ -74,7 +74,7 @@ nav .header_right .algos {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (16.66667%)[6];
-      grid-template-columns: repeat(6, 20.96667%);
+      grid-template-columns: repeat(7, 20.96667%);
   place-content: center;
   padding: 2% 0%;
 }
@@ -170,25 +170,3 @@ section #Info_Cont2 h3 {
   display: none;
 }
 
-/*
-@media (max-width: 480px)//Mobiles
-{
-    
-}
-
-@media (min-width: 481px) and (max-width: 1250px)//Tablets
-{
-
-}
-
-@media (min-width: 1251px)//Laptops and up
-{
-
-}
-*/
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    *****************
-*/
-/*# sourceMappingURL=style.css.map */
