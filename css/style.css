@@ -85,7 +85,7 @@ nav .header_right .algos button {
 }
 
 nav .header_right .algos button:hover {
-  background-color: blue;
+  background-color: rgb(149, 162, 157);
   cursor: pointer;
 }
 
@@ -100,17 +100,17 @@ nav .header_right .algos .butt_locked:hover {
 }
 
 nav .header_right .algos .butt_selected {
-  background-color: white;
+  background-color: rgb(108, 10, 21);
   color: green;
 }
 
 nav .header_right .algos .butt_selected:hover {
-  background-color: white;
+  background-color: rgb(16, 168, 160);
   cursor: pointer;
 }
 
 nav .header_right .algos .butt_unselected:hover {
-  background-color: blue;
+  background-color: rgb(132, 141, 109);
   cursor: pointer;
 }
 
