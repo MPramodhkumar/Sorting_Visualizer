@@ -1,8 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    *****************
-*/
+
 * {
   margin: 0px;
   padding: 0px;
@@ -169,26 +165,3 @@ section #Info_Cont2 h3 {
 .hide {
   display: none;
 }
-
-/*
-@media (max-width: 480px)//Mobiles
-{
-    
-}
-
-@media (min-width: 481px) and (max-width: 1250px)//Tablets
-{
-
-}
-
-@media (min-width: 1251px)//Laptops and up
-{
-
-}
-*/
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    *****************
-*/
-/*# sourceMappingURL=style.css.map */
